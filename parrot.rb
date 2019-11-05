@@ -2,7 +2,7 @@
 # returns the phrase
 
 
-def parrot ("Squawk!")
+def parrot (def_arguement= "Squawk!")
   puts "Squawk!" 
 end
 
