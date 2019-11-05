@@ -5,9 +5,10 @@
 def parrot (phrase = "Squawk!")
   puts phrase 
   return "Squawk!"
+  phrase = "Pretty bird!"
+  return prase 
   
 end
 
 parrot
 
-return parrot "Pretty bird!"
