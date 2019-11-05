@@ -2,8 +2,8 @@
 # returns the phrase
 
 
-def parrot (def_arguement = "Squawk!")
-  puts "Squawk!" 
+def parrot (phrase = "Squawk!")
+  puts phrase 
 end
 
 parrot
