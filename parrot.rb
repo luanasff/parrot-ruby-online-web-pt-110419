@@ -10,4 +10,4 @@ end
 
 parrot
 
-return "Pretty bird!"
+return parrot "Pretty bird!"
